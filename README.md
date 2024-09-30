@@ -1,0 +1,3 @@
+# BASE DE DATOS PARA EL ANÁLISIS DE PELÍCULAS CON LA FINALIDAD DE CONOCER LA RENTABILIDAD Y VISIBILIZACIÓN
+
+Proyecto de estudio para curso de SQL realizado por Adriana Silvio
